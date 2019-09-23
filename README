@@ -1,0 +1,4 @@
+This simulator serves to predict the transient probability for the random queue described in http://gursoy.rutgers.edu/papers/MMInfinity_manuscript_-3.pdf
+
+One can simulate a regular M/M/Inf queue by setting failure rate to zero.
+
